@@ -1,5 +1,6 @@
 ### Hi there 👋
 ### 🔭 I’m currently working on BeanGoose
+### 😄 Pronouns: her/she
 
 <!--
 **beangoosedev/beangoosedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
